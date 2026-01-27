@@ -8,17 +8,17 @@ Power BI dashboard for analyzing **sales performance, customer segmentation, pro
 - Top customers and products  
 - Monthly & YoY growth metrics  
 
-## Tech Stack
+## Tech stack
 - Power BI Desktop  
 - DAX (time intelligence, KPIs)  
 - Star schema data model  
 
-## Skills Demonstrated
+## Skills demonstrated
 - Data modeling  
 - DAX calculations  
 - Interactive dashboards
 
-## Key Insights:
+## Key insights:
 - The dashboard provides a clear and detailed view of sales performance, customer behavior, and product profitability, which are crucial for strategic decision-making.
 - Insights into top customers and top products help focus sales and marketing efforts on the most profitable segments.
 - The time intelligence features enable the tracking of sales trends, helping businesses adjust strategies for growth and forecasting.
