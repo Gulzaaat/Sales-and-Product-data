@@ -1,4 +1,4 @@
-# Power BI Sales Analytics Dashboard
+# Power BI Business Intelligence: Sales & Operations Performance Dashboard
 
 Power BI dashboard for analyzing **sales performance, customer segmentation, product profitability, and time intelligence**.
 
