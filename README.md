@@ -15,7 +15,8 @@ Power BI dashboard for analyzing **sales performance, customer segmentation, pro
 ## Tech stack
 - Power BI Desktop  
 - DAX (time intelligence, KPIs)  
-- Star schema data model  
+- Star schema data model
+- ![image alt](https://github.com/Gulzaaat/Sales-and-Product-data/blob/c99b28c9555e3337677b297f835ee6320cad3e05/schema.png)
 
 ## Skills demonstrated
 - Data modeling  
