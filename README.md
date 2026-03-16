@@ -3,7 +3,9 @@
 Power BI dashboard for analyzing **sales performance, customer segmentation, product profitability, and time intelligence**.
 
 ![image alt](https://github.com/Gulzaaat/Sales-and-Product-data/blob/a85f3c9a8cecb67b747dbf50942c285f7e83a3fa/data0.jpg)
-
+![image alt](https://github.com/Gulzaaat/Sales-and-Product-data/blob/3a751d8f4fe3943bd9841031d1a3d43259e65f30/data1.jpg)
+![image alt](https://github.com/Gulzaaat/Sales-and-Product-data/blob/3a751d8f4fe3943bd9841031d1a3d43259e65f30/data2.jpg)
+![image alt](https://github.com/Gulzaaat/Sales-and-Product-data/blob/3a751d8f4fe3943bd9841031d1a3d43259e65f30/data3.jpg)
 ## Features
 - Sales vs Sales Plan KPIs  
 - Customer and product analysis  
